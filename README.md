@@ -13,6 +13,8 @@
 </a>
 </p>
 
+![snake gif](https://github.com/frnLcr/frnLcr/blob/output/github-contribution-grid-snake.gif)
+
 
 <!-- GPRM Profile generated readme -->
 # 💫 About Me:
